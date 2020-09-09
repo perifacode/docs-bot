@@ -11,18 +11,18 @@ Para saber quais os comandos disponíveis do bot, usar o comando `!help`, `!ajud
 - `!bot` - Link para contribuir com nosso robôzinho;
 - `!niver data` - Adiciona o seu aniversário no nosso bot (trocar *data* por uma data real, ex: 25/02);
 - `!aniversariantes` - Mostra os aniversariantes do dia;
-- `!mentoria` - Te destaca como uma pessoa BUSCANDO mentoria;
-- `!mentorear` - Te destaca como uma pessoa OFERECENDO mentoria;
+- `!mentorado` - Te destaca como uma pessoa BUSCANDO mentoria;
+- `!mentor` - Te destaca como uma pessoa OFERECENDO mentoria;
 
 
-## Como usar os comandos !mentoria e !mentorear
+## Como usar os comandos !mentorado e !mentorear
 
-Ao digitar os comandos `!mentoria` ou `!mentoria`, irá aparecer uma lista de temas disponíveis para buscar ou oferecer mentoria. Assim como mostra a imagem abaixo.
-![](https://i.imgur.com/YDEKlCy.png)
+Ao digitar os comandos `!mentorado` ou `!mentorado`, irá aparecer uma lista de temas disponíveis para buscar ou oferecer mentoria. Assim como mostra a imagem abaixo.
+![](https://i.imgur.com/08pn7RU.png)
 
-Você deve selecionar, clicando nos botões de reação, os temas que você deseja receber mentoria caso tenha usado o comando `!mentoria` ou os temas que você deseja oferecer mentoria caso tenha usado o comando `!mentorear`.
+Você deve selecionar, clicando nos botões de reação, os temas que você deseja receber mentoria caso tenha usado o comando `!mentorado` ou os temas que você deseja oferecer mentoria caso tenha usado o comando `!mentor`.
 
 Após clicar nas linguagens desejadas, clicar no botão 🟢 para confirmar que deseja mentoria, ou clicar no botão ✅ para confirmar que deseja mentoriar naqueles temas.
 
 Após isso, clicar no seu perfil e verificar se os itens marcados estão no seu perfil.
-![](https://i.imgur.com/KBLV2yv.png).
+![](https://i.imgur.com/9mK95rR.png).
