@@ -15,9 +15,9 @@ Para saber quais os comandos disponíveis do bot, usar o comando `!help`, `!ajud
 - `!mentor` - Te destaca como uma pessoa OFERECENDO mentoria;
 
 
-## Como usar os comandos !mentorado e !mentorear
+## Como usar os comandos !mentorado e !mentor
 
-Ao digitar os comandos `!mentorado` ou `!mentorado`, irá aparecer uma lista de temas disponíveis para buscar ou oferecer mentoria. Assim como mostra a imagem abaixo.
+Ao digitar os comandos `!mentorado` ou `!mentor`, irá aparecer uma lista de temas disponíveis para buscar ou oferecer mentoria. Assim como mostra a imagem abaixo.
 ![](https://i.imgur.com/08pn7RU.png)
 
 Você deve selecionar, clicando nos botões de reação, os temas que você deseja receber mentoria caso tenha usado o comando `!mentorado` ou os temas que você deseja oferecer mentoria caso tenha usado o comando `!mentor`.
