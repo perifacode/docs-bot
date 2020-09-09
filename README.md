@@ -1,7 +1,8 @@
 # Documentação do bot da perifaCode 🤖
+Documentação oficial do bot da perifaCode.
 
+## Comandos disponíveis 👩🏼‍💻
 Para saber quais os comandos disponíveis do bot, usar o comando `!help`, `!ajuda` ou `!comandos`.
-
 
 - `!eventos` - Mostra o próximo evento que iremos fazer. (Presencial ou online);
 - `!livros` e `!cursos` - Link para o nosso repositório com livros e cursos gratuitos;
@@ -15,7 +16,7 @@ Para saber quais os comandos disponíveis do bot, usar o comando `!help`, `!ajud
 - `!mentor` - Te destaca como uma pessoa OFERECENDO mentoria;
 
 
-## Como usar os comandos !mentorado e !mentor
+## Como usar os comandos !mentorado e !mentor ☝🏼
 
 Ao digitar os comandos `!mentorado` ou `!mentor`, irá aparecer uma lista de temas disponíveis para buscar ou oferecer mentoria. Assim como mostra a imagem abaixo.
 ![](https://i.imgur.com/08pn7RU.png)
